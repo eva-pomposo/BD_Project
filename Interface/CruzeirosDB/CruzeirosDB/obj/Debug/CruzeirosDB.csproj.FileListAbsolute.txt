@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Nova pasta\CruzeirosDB\CruzeirosDB\bin\Debug\CruzeirosDB.exe.config
+C:\Users\user\Desktop\Nova pasta\CruzeirosDB\CruzeirosDB\bin\Debug\CruzeirosDB.exe
+C:\Users\user\Desktop\Nova pasta\CruzeirosDB\CruzeirosDB\bin\Debug\CruzeirosDB.pdb
+C:\Users\user\Desktop\Nova pasta\CruzeirosDB\CruzeirosDB\obj\Debug\CruzeirosDB.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Nova pasta\CruzeirosDB\CruzeirosDB\obj\Debug\CruzeirosDB.Properties.Resources.resources
+C:\Users\user\Desktop\Nova pasta\CruzeirosDB\CruzeirosDB\obj\Debug\CruzeirosDB.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Nova pasta\CruzeirosDB\CruzeirosDB\obj\Debug\CruzeirosDB.exe
+C:\Users\user\Desktop\Nova pasta\CruzeirosDB\CruzeirosDB\obj\Debug\CruzeirosDB.pdb
+C:\Users\user\Desktop\CruzeirosDB\CruzeirosDB\bin\Debug\CruzeirosDB.exe.config
+C:\Users\user\Desktop\CruzeirosDB\CruzeirosDB\bin\Debug\CruzeirosDB.exe
+C:\Users\user\Desktop\CruzeirosDB\CruzeirosDB\bin\Debug\CruzeirosDB.pdb
+C:\Users\user\Desktop\CruzeirosDB\CruzeirosDB\obj\Debug\CruzeirosDB.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CruzeirosDB\CruzeirosDB\obj\Debug\CruzeirosDB.home.resources
+C:\Users\user\Desktop\CruzeirosDB\CruzeirosDB\obj\Debug\CruzeirosDB.Properties.Resources.resources
+C:\Users\user\Desktop\CruzeirosDB\CruzeirosDB\obj\Debug\CruzeirosDB.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CruzeirosDB\CruzeirosDB\obj\Debug\CruzeirosDB.exe
+C:\Users\user\Desktop\CruzeirosDB\CruzeirosDB\obj\Debug\CruzeirosDB.pdb
